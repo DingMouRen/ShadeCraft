@@ -63,6 +63,12 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif) |  此为一个背景组件，与TabLayout布局配合使用。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif) |  此为一个TabLayout组件，可以设置按钮背景色、圆角等，自带回弹效果。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif) |  此为一个Neumorphism风格的表盘组件。|
+
+<br>
+
+|   示例 |描述    |
+|:---|:---|
+|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png) |
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif) |  此为一个Neumorphism风格的开关组件。|
 |<video src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" controls autoplay loop>您的浏览器不支持播放该视频。</video>|  此为一个Neumorphism风格的开关组件。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif) |  此为一个Neumorphism风格的值变化的组件，文本呈现上下滚动效果。|
