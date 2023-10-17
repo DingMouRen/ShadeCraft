@@ -5,14 +5,14 @@
 Neumorphism是一种虚拟设计趋势，也叫“新拟态”或“新拟物”。它是一种将平面设计和现实世界元素结合起来的设计风格，带有立体感和柔和的灰影，并且使用明暗高光效果来模拟表面的质感。<br>　
 Neumorphism风格的结构如下：<br>
 <div align=center>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_1.png" width="100%">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_1.jpg" width="80%">
 </div>
 主要有三个样式组成，1 个背景+ 2 个投影。在这个基础上，通过改变颜色和大小参数来达到不同效果。<br>
 <div align=center>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_2.png" width="100%">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_2.jpgg" width="80%">
 </div>
 <div align=center>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_3.png" width="100%">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_3.jpg" width="80%">
 </div>
 
 
@@ -62,6 +62,6 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif) |  此为一个TabLayout组件，可以设置按钮背景色、圆角等，自带回弹效果。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif) |  此为一个Neumorphism风格的表盘组件。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif) |  此为一个Neumorphism风格的开关组件。|
-|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4) |  此为一个Neumorphism风格的开关组件。|
+|<video src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" controls autoplay loop>您的浏览器不支持播放该视频。</video>|  此为一个Neumorphism风格的开关组件。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif) |  此为一个Neumorphism风格的值变化的组件，文本呈现上下滚动效果。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif) |  此为一个Neumorphism风格的水波纹扩散效果的组件。|
