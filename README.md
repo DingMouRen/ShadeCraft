@@ -50,7 +50,15 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 ||  此为一个Neumorphism风格的开关组件。|
 
 <br>
+<p> 
 <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="250"/>
+</p>
+<div>
+   <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="250"/> 
+</div>
+<span>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="250"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="250"/>
+</span>
 
 <br>
 <table>
