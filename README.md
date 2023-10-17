@@ -73,8 +73,16 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 30%;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 30%;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 30%;">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
 </div>
-
+<table>
+   
+   <tr>
+      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
+      <td<img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
+      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
+   </tr>
+   
+</table>
