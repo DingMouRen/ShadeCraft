@@ -67,67 +67,30 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" alt="image1" width="260"/>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif" alt="image2" width="260"/>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeslider.gif" alt="image2" width="260"/>
-    
+
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadescaleoption.gif" alt="image1" width="300"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" alt="image3" width="300"/>
-    
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadescaleoption.gif" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress_1.png" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.gif" alt="image3" width="260"/>
+
 </p>
-
-
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress.png" alt="image1" width="300"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecard.png" alt="image2" width="300"/>
-</p>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress_2.png" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecard.png" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex_1.png" alt="image3" width="260"/>
 
+</p>
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex.png" alt="image1" width="300"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadesearchbar.png" alt="image2" width="300"/>
-</p>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex_2.png" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadesearchbar.png" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabelevated.gif" alt="image3" width="260"/>
 
+</p>
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabelevated.gif" alt="image1" width="300"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif" alt="image2" width="300"/>
-</p>
-<br>
-<!--<table>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" style="width: 100%;"></td>-->
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif" alt="image1" width="260"/>
 
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeiconbutton.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadelinearprogressindicator.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shaderadiobutton.gif" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif" style="width: 100%;"></td>-->
-<!--      <td><video src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" controls autoplay loop>您的浏览器不支持播放该视频。</video></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadescaleoption.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeslider.gif" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress.png" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecard.png" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex.png" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadesearchbar.png" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--   <tr>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabelevated.gif" style="width: 100%;"></td>-->
-<!--      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif" style="width: 100%;"></td>-->
-<!--   </tr>-->
-<!--</table>-->
+</p>
+
+ 
