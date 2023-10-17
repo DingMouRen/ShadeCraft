@@ -66,28 +66,30 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 <p>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" alt="image1" width="260"/>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif" alt="image2" width="260"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" alt="image3" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeslider.gif" alt="image2" width="260"/>
+    
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadescaleoption.gif" alt="image1" width="500"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeslider.gif" alt="image2" width="500"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadescaleoption.gif" alt="image1" width="300"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" alt="image3" width="300"/>
+    
 </p>
 
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress.png" alt="image1" width="500"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecard.png" alt="image2" width="500"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecalorverticalprogress.png" alt="image1" width="300"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecard.png" alt="image2" width="300"/>
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex.png" alt="image1" width="500"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadesearchbar.png" alt="image2" width="500"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconvex.png" alt="image1" width="300"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadesearchbar.png" alt="image2" width="300"/>
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabelevated.gif" alt="image1" width="500"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif" alt="image2" width="500"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabelevated.gif" alt="image1" width="300"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabpathbar.gif" alt="image2" width="300"/>
 </p>
 <br>
 <!--<table>-->
