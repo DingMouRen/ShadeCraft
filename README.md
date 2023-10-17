@@ -46,27 +46,27 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 组件都可以调整高光色、阴影的偏移量、高光颜色、阴影颜色以及模糊程度，以达到想要的效果。<br>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="333"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="260"/>
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeiconbutton.gif" alt="image1" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadelinearprogressindicator.gif" alt="image2" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shaderadiobutton.gif" alt="image3" width="333"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeiconbutton.gif" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadelinearprogressindicator.gif" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shaderadiobutton.gif" alt="image3" width="260"/>
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif" alt="image1" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" alt="image2" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif" alt="image3" width="333"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif" alt="image3" width="260"/>
 </p>
 
 <p>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" alt="image1" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif" alt="image2" width="333"/>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" alt="image3" width="333"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" alt="image1" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif" alt="image2" width="260"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" alt="image3" width="260"/>
 </p>
 
 <p>
