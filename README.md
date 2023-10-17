@@ -51,28 +51,26 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 
 <br>
 <p> 
-<img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="333"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="333"/> <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="333"/>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="333"/> 
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" alt="image2" width="333"/> 
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" alt="image3" width="333"/>
 </p>
- 
+
+ <p>
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" alt="image1" width="333"/> 
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" alt="image2" width="333"/> 
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif" alt="image3" width="333"/>
+ </p>
 
 <br>
 <table>
 
+   
+  
    <tr>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 33%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png" style="width: 33%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressmixed.png" style="width: 33%;"></td>
-
-   </tr>
-   <tr>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadeiconbutton.gif" style="width: 100%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadelinearprogressindicator.gif" style="width: 100%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shaderadiobutton.gif" style="width: 100%;"></td>
-   </tr>
-   <tr>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif" style="width: 100%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif" style="width: 100%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif" style="width: 100%;"></td>
+      <td><img src="" style="width: 100%;"></td>
+      <td><img src="" style="width: 100%;"></td>
+      <td><img src="" style="width: 100%;"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif" style="width: 100%;"></td>
