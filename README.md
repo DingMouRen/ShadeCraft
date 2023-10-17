@@ -64,26 +64,4 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetabrow.gif) |  此为一个TabLayout组件，可以设置按钮背景色、圆角等，自带回弹效果。|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetimepiece.gif) |  此为一个Neumorphism风格的表盘组件。|
 
-<br>
 
-|   示例 |描述    |描述    |
-|:---|:---|:---|
-|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif)|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png) |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png) |
-
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
-</div>
-<br>
-<table>
-   
-   <tr>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
-      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
-       <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
-   </tr>
-   
-</table>
