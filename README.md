@@ -52,7 +52,7 @@ Neumorphism风格的结构如下：<br>
 </div>
 
 ### 组件展示
-组件都可以调整高光色、阴影的偏移量、高光颜色、阴影颜色以及模糊程度，以达到想要的效果。<br>
+组件都可以调整亮光、阴影的偏移量、颜色以及模糊程度，以达到想要的效果。<br>
 
 <p>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" alt="image1" width="260"/>
