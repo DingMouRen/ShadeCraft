@@ -69,7 +69,3 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
 |   示例 |描述    |
 |:---|:---|
 |![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadecircleprogressconcave.png) |
-|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggle.gif) |  此为一个Neumorphism风格的开关组件。|
-|<video src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadetoggleconcave.mp4" controls autoplay loop>您的浏览器不支持播放该视频。</video>|  此为一个Neumorphism风格的开关组件。|
-|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadevalueindicator.gif) |  此为一个Neumorphism风格的值变化的组件，文本呈现上下滚动效果。|
-|![image](https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaterripple.gif) |  此为一个Neumorphism风格的水波纹扩散效果的组件。|
