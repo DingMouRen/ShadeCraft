@@ -77,11 +77,12 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;">
 </div>
+<br>
 <table>
    
    <tr>
       <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
-      <td<img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
+      <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
       <td><img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadebutton.gif" style="width: 100%;"></td>
    </tr>
    
