@@ -4,6 +4,7 @@
 ### 什么是Neumorphism？<br>
 Neumorphism是一种虚拟设计趋势，也叫“新拟态”或“新拟物”。它是一种将平面设计和现实世界元素结合起来的设计风格，带有立体感和柔和的灰影，并且使用明暗高光效果来模拟表面的质感。<br>　<br>
 Neumorphism风格的结构如下：<br>
+<br>
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_1.jpg" width="80%">
 </div>
