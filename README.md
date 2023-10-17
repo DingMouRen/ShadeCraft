@@ -9,7 +9,7 @@ Neumorphism风格的结构如下：<br>
 </div>
 主要有三个样式组成，1 个背景+ 2 个投影。在这个基础上，通过改变颜色和大小参数来达到不同效果。<br>
 <div align=center>
-    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_2.jpgg" width="80%">
+    <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_2.jpg" width="80%">
 </div>
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/introduce_3.jpg" width="80%">
