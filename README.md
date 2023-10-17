@@ -1,6 +1,15 @@
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/header.png" width="100%">
 </div>
+
+### 目录
+* **什么是Neumorphism？**
+* **什么是ShadeCraft？**
+* **界面示例**
+* **组件展示**
+* **组件列表**
+* **感谢Neumorphism UI设计师**
+
 ### 什么是Neumorphism？<br>
 Neumorphism是一种虚拟设计趋势，也叫“新拟态”或“新拟物”。它是一种将平面设计和现实世界元素结合起来的设计风格，带有立体感和柔和的灰影，并且使用明暗高光效果来模拟表面的质感。<br>　<br>
 Neumorphism风格的结构如下：<br>
@@ -19,10 +28,10 @@ Neumorphism风格的结构如下：<br>
 
 
 ### 什么是ShadeCraft？<br>
-ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速编写Neumorphism风格的APP。<br>
+**ShadeCraft**是一个Neumorphism风格的Compose组件库。便于开发者快速编写Neumorphism风格的APP。<br>
 每个设计元素都呈现出柔软而立体的质感，仿佛随时可以触摸到舒适的触感。阴影渐变和柔和的边缘效果勾勒出元素的深度和层次感，仿佛将它们从平面世界中解放出来。同时，这些元素还保持着手工制作的细腻质感，像是由精细的工匠用心打磨而成。<br>
 
-### 示例
+### 界面示例
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/sample_1.png" width="100%">
 </div>
@@ -42,7 +51,7 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/sample_6.png" width="100%">
 </div>
 
-### 组件
+### 组件展示
 组件都可以调整高光色、阴影的偏移量、高光颜色、阴影颜色以及模糊程度，以达到想要的效果。<br>
 
 <p>
@@ -93,4 +102,37 @@ ShadeCraft是一个Neumorphism风格的Compose组件库。便于开发者快速�
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/shadewaveprogress.gif" alt="image1" width="260"/>
 </p>
 
- 
+### 组件列表
+* ShadeButton
+* ShadeCalorVerticalProgress
+* ShadeCard
+* ShadeCircleProgressConcave
+* ShadeCircleProgressConvex
+* ShadeCircleProgressMixed
+* ShadeIconButton
+* ShadeImageButton
+* ShadeLight
+* ShadeLinearProgressIndicator
+* ShadeRadioButton
+* ShadeScaleOption
+* ShadeSearchBar
+* ShadeSlider
+* ShadeTabElevated
+* ShadeTabPathBar
+* ShadeTabRow
+* ShadeTimepiece
+* ShadeToggle
+* ShadeToggleConcave
+* ShadeValueIndicator
+* ShadeWaterRipple
+* ShadeWaveProgress
+
+
+### 感谢Neumorphism UI设计师
+本项目中的界面示例参考了很多优秀设计师的设计作品，他们都非常优秀和专业，非常感谢他们的设计。<br>
+* [**Alena Yurina**](https://dribbble.com/shots/14529540-Music-player-Neumorphism)
+* [**Casker**](https://dribbble.com/shots/9833973-Daily-UI-007-Smart-Home-App-Settings)
+* [**Dimest**](https://dribbble.com/shots/11018635-Washing-machine)
+* [**Kayln Kwan**](https://dribbble.com/shots/17261639-Daily-UI-007-Settings)
+* [**Fateme Souri**](https://dribbble.com/shots/16628294-Running-App)
+* [**Pierre Pavlovic**](https://dribbble.com/shots/14591976-Neumorphic-Clock-App)
