@@ -1,6 +1,7 @@
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/header.png" width="100%">
 </div>
+<br>
 [English Version](https://github.com/DingMouRen/ShadeCraft/blob/main/ENGLISHREADME.md)
 
 ### 目录
