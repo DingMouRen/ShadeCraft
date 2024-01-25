@@ -11,7 +11,7 @@
 * **List of Components**
 * **Thanks to Neumorphism UI Designers**
 
-### 什么是Neumorphism？<br>
+### What is Neumorphism？<br>
 Neumorphism is a virtual design trend, also known as "new skeuomorphism" or "neo-skeuomorphism". It is a design style that combines flat design with real-world elements, featuring a three-dimensional appearance and soft shadows, and uses highlights and shadows to simulate the texture of surfaces.<br><br> The structure of the Neumorphism style is as follows：<br>
 <br>
 <div align=center>
