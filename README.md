@@ -1,3 +1,5 @@
+我是一名9年工作经验的安卓手机软件开发工程师，正在寻找一份工作，如果你们正好需要得话，可以联系我naildingmouren@gmail.com。我希望工作地点是在杭州或者远程工作。期待与您共事。<br>
+
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/header.png" width="100%">
 </div>
