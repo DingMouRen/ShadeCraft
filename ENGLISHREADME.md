@@ -1,4 +1,4 @@
-I am an Android mobile software development engineer with 9 years of work experience, currently seeking employment. If you happen to have any suitable opportunities, please contact me at naildingmouren@gmail.com. I prefer the work location to be in Hangzhou, China, or to have the option for remote work. I look forward to working with you.<br>
+
 <div align=center>
     <img src="https://github.com/DingMouRen/ShadeCraft/raw/main/resource/header.png" width="100%">
 </div>
